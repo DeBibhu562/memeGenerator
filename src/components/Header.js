@@ -6,6 +6,7 @@ export default function Header() {
             <img 
                 src={imageicon}
                 className="header--image"
+                alt="icon"
             />
             <h2 className="header--title">Meme Generator</h2>
             <h4 className="header--project">React Course - Project 3</h4>
